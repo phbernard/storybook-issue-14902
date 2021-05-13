@@ -40,6 +40,8 @@ Button.propTypes = {
    * Optional click handler
    */
   onClick: PropTypes.func,
+
+  background: PropTypes.bool
 };
 
 Button.defaultProps = {
