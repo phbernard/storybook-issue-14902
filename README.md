@@ -1,3 +1,12 @@
+# TO REPRODUCE THE ISSUE
+
+Setup and start storybook:
+
+    yarn install
+	yarn storybook
+
+In your browser, navigate to Button > Primary. The page becomes blank and there is a JS error.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
